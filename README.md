@@ -2,6 +2,8 @@
 I have an interest in Web Hacking and security.  
 Recently, I'm studying Python and HTML/CSS.👋  
 To enhancing my coding skill, I’m currently learning Data structure and algorithm!
+
+https://img.shields.io/badge/<Python>-<★★★★☆>-<blue>
 <!--
 **sinbak/sinbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
