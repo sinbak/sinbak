@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinbak&theme=dark&show_icons=true)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=usk750)](https://solved.ac/usk750/)
